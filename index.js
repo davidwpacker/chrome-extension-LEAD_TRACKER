@@ -21,7 +21,8 @@ for (let i = 0; i < myLeads.length; i++) {
             ${myLeads[i]} </a>
         </li>
     `
-    // template string
+    // template string/literals
 
 ulEl.innerHTML = listItems
 }
+
